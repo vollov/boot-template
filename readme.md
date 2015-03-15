@@ -2,6 +2,7 @@
 
 
 A typical vollov nodejs web site product must meet following standard:
+
 	* Use twitter bootstrap to edit the themes
 	* Front end navigation using angularjs 
 	* Back end using nodejs express js framework to support HTTP requests
@@ -13,8 +14,8 @@ A typical vollov nodejs web site product must meet following standard:
 	* theme is the folder to store static web page design
 	* node folder is the folder to store node http server and running web page
    
-##To install on a 
-	1. install nodejs will install nodejs and 
+##To install on Linux or windows
+	1. install nodejs will install nodejs and npm
 	2. cd node-template/node
 	3. npm install
 
