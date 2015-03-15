@@ -22,3 +22,10 @@ A typical vollov nodejs web site product must meet following standard:
 ##To run the demo:
 	1. cd node-template/node
 	2. npm start
+	
+##Useful chrome tools to debug theme
+	1. Bootstrap Overlay
+	2. Ruul. Screen ruler
+	3. TypeDNA
+	4. ColorZilla
+		
